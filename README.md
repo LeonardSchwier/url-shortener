@@ -8,7 +8,7 @@ An easy URL shortener
 
 
 ## Instructions
-1. Set up database structure and configure database access in `db_connect.php`
+1. Set up database structure (see file `create_db.sql` and configure database access in `db_connect.php`
 2. Add row to database (e.g., through PHPMyAdmin) with at least values for `key` and `target`
 3. Call URL to use URL shortener
 
